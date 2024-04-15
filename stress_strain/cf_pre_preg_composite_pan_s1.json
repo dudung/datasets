@@ -3,11 +3,12 @@
   "date": "2018-07-20 02:25",
   "origin": "https://doi.org/10.6084/m9.figshare.6843638.v2",
   "material": "Carbon fiber pre-impregnated composite polyacrylonitrile",
+  "specimen": 1,
   "editor": "Sparisoma Viridi",
   "update": "2024-04-15 21:49",
   "delimiter": "comma",
   "column": ["Strain", "Stress"],
   "type": ["float", "float"],
   "unit": ["mm/mm", "MPa"],
-  "data": "cf_pre_preg_composite_pan.csv"
+  "data": "cf_pre_preg_composite_pan_s1.csv"
 }
