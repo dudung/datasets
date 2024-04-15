@@ -1,2 +1,2 @@
 # datasets
-a pseudo data lake for xlsx flat file
+a pseudo data lake for csv flat files and the metadata
