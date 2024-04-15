@@ -8,5 +8,6 @@
   "delimiter": "comma",
   "column": ["Strain", "Stress"],
   "type": ["float", "float"],
-  "unit": ["mm/mm", "MPa"]
+  "unit": ["mm/mm", "MPa"],
+  "data": "cf_pre_preg_composite_pan.csv"
 }
