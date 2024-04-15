@@ -1,13 +1,4 @@
-﻿#Creator: Ibrahim M. Alarifi
-#Date: 2018-07-20 02:25
-#Origin: https://doi.org/10.6084/m9.figshare.6843638.v2
-#Material: Carbon fiber pre-impregnated composite polyacrylonitrile
-#Editor: Sparisoma Viridi
-#Delimiter: comma
-#Column: Strain,Stress
-#Type: float,float
-#Unit: mm/mm,MPa
-Strain,Stress
+﻿Strain,Stress
 -2.830,2.416
 -2.815,3.508
 -2.805,4.014
