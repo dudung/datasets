@@ -28,4 +28,5 @@ Create issue to discuss proposed datasets
   e.g [issuecomment-2060057407](https://github.com/dudung/datasets/issues/1#issuecomment-2060057407)
 + Confirm anything required \
   e.g [issuecomment-2060060024](https://github.com/dudung/datasets/issues/1#issuecomment-2060060024)
-+ 
++ Upload files and create pull request as directed \
+  eg. [issuecomment-2060079442](https://github.com/dudung/datasets/issues/1#issuecomment-2060079442)
