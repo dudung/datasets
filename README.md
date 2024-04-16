@@ -18,4 +18,8 @@ Fork this repository before contribute
 
 ## issue
 Create issue to discuss proposed datasets
-+ Visit repository issues
++ Visit repository issues \
+  https://github.com/dudung/datasets/issues
++ Create a new issue \
+  https://github.com/dudung/datasets/issues/new
++ 
