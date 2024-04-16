@@ -22,4 +22,5 @@ Create issue to discuss proposed datasets
   https://github.com/dudung/datasets/issues
 + Create a new issue \
   https://github.com/dudung/datasets/issues/new
-+ 
++ Write information about proposed dataset \
+  ..
