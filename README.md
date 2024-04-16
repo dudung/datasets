@@ -25,3 +25,4 @@ Create issue to discuss proposed datasets
 + Write information about proposed dataset \
   e.g. [issue-2247007064](https://github.com/dudung/datasets/issues/1#issue-2247007064)
 + Wait for a response
+  e.g [issuecomment-2060057407](https://github.com/dudung/datasets/issues/1#issuecomment-2060057407)
