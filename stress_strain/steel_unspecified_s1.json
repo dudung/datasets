@@ -1,0 +1,14 @@
+﻿{
+  "creator": "Jeffrey Birt",
+  "date": "2011-03-08 13:34",
+  "origin": "https://www.youtube.com/watch?v=pNIvZyd5djQ",
+  "material": "Unspecified steel",
+  "specimen": 1,
+  "editor": "Sparisoma Viridi",
+  "update": "2024-04-16 22:38",
+  "delimiter": "comma",
+  "column": ["Strain", "Stress"],
+  "type": ["float", "float"],
+  "unit": ["in/in", "psi"],
+  "data": "steel_unspecified_s1.csv"
+}
