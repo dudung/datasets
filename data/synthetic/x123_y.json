@@ -1,0 +1,12 @@
+﻿{
+  "creator": ["Sparisoma Viridi"],
+  "date": "2024-04-21 18:57",
+  "origin": "https://github.com/dudung/py-jupyter-nb/blob/main/src/apply/misc/vacuum/ml/synthetic.ipynb",
+  "editor": "Sparisoma Viridi",
+  "update": "2024-04-21 19:27",
+  "delimiter": "comma",
+  "column": ["X1", "X2", "X3", "Y"],
+  "type": ["float", "float", "float", "string"],
+  "unit": ["none", "none", "none", "none"],
+  "data": "x123_y.csv"
+}
