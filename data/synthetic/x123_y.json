@@ -6,7 +6,7 @@
   "update": "2024-04-21 19:27",
   "delimiter": "comma",
   "column": ["X1", "X2", "X3", "Y"],
-  "type": ["float", "float", "float", "string"],
+  "type": ["float", "float", "float", "int"],
   "unit": ["none", "none", "none", "none"],
   "data": "x123_y.csv"
 }
