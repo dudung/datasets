@@ -1,0 +1,15 @@
+﻿{
+  "creator": ["James R. Asay", "S. R. Urzendowski", "Arthur H. Guenther"],
+  "date": "1968-01-00 00:00",
+  "origin": "https://www.researchgate.net/publication/235140170",
+  "document": "Table 15, page 86", 
+  "material": "Low density polyethylene",
+  "specimen": 1,
+  "editor": "Fees Koum",
+  "update": "2024-04-17 05:23",
+  "delimiter": "comma",
+  "column": ["Temperature", "Coefficent of linear thermal expansion"],
+  "type": ["float", "float"],
+  "unit": ["°C", "1E5 in/in·°C"],
+  "data": "polyethylene_low_density.csv"
+}
