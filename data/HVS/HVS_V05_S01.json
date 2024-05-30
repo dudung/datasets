@@ -1,0 +1,13 @@
+{
+  "creator": ["AngeliFransiskaNJo"],
+  "date": "2024-05-20 ",
+  "material": "HVS",
+  "specimen": 1,
+  "editor": "AngeliFransiskaNjo",
+  "update": "2024-04-15 21:49",
+  "delimiter": "comma",
+  "column": ["Stress", "Strain"],
+  "type": ["float", "float"],
+  "unit": ["MPa", ""],
+  "data": " "
+}
