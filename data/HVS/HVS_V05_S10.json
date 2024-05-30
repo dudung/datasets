@@ -15,6 +15,5 @@
   "column": ["Stress", "Strain"],
   "type": ["float", "float"],
   "unit": ["MPa", "m/m"],
-  "data": "HVS_V05_S10
-  .csv"
+  "data": "HVS_V05_S10.csv"
 }
