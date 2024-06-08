@@ -11,7 +11,7 @@
   "specimen thickness": "0.105mm",
   "speed": "3 mm/min",
   "editor": "Angeli Fransiska Njo",
-  "update": "2024-06-08 16:45",
+  "update": "2024-06-08 16:55",
   "delimiter": "comma",
   "column": ["Stress", "Strain"],
   "type": ["float", "float"],
