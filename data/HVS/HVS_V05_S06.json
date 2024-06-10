@@ -1,0 +1,20 @@
+{
+  "creator": ["Angeli Fransiska Njo"],
+  "date": "2024-05-20 12:40",
+  "material": "HVS",
+  "brand": "Paper One", 
+  "paper size": "A4",
+  "paperweight": "75 gsm",
+  "specimen": "6",
+  "specimen length": "50mm",
+  "specimen width": "30mm",
+  "specimen thickness": "0.105mm",
+  "speed": "5 mm/min",
+  "editor": "Angeli Fransiska Njo",
+  "update": "2024-05-30 14:46",
+  "delimiter": "comma",
+  "column": ["Stress", "Strain"],
+  "type": ["float", "float"],
+  "unit": ["MPa", "m/m"],
+  "data": "HVS_V05_S06.csv"
+}
